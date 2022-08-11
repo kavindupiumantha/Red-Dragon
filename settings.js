@@ -12,7 +12,8 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉
+Genarate & Owner : KAVINDU PIUMANTHA LENORA` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,9 +30,9 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94729646425'] // owner number
-global.ownername = "SHASHIMAL KAVINDU SARANGA❯❯" // owner name
-global.ytname = "" // yt chanel name
+global.vcardowner = ['+94757127773'] // owner number
+global.ownername = "KAVINDU PIUMANTHA LENORA❯❯" // owner name
+global.ytname = "Kavindu Lenora" // yt chanel name
 global.socialm = "GitHub: darshadow2022" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
@@ -44,19 +45,19 @@ global.antibad = "false" // To remove bad word senders
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "true" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 
-global.owner = ['+94729646425']
-global.ownertag = '+94729646425' //your tag number
+global.owner = ['Kavindu Lenora']
+global.ownertag = '+94757127773' //your tag number
 global.botname = 'DARK SHADOW - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Sticker" // sticker packname
-global.author = "CREATE BY - SHASHI" // sticker author
+global.packname = "KPL" // sticker packname
+global.author = "CREATE BY - KAVINDU LENORA" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ DARK SHADOW TEAM ]' //
 
 global.button = '☰ FACEBOOK PROFILE ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://www.facebook.com/shashimalkavindu.saranga.58' //Change Your Button's URL
+global.btnurl = 'https://www.youtube.com/channel/UCWglOkYylh7yb5SWn2dOojg' //Change Your Button's URL
 
 //database
-global.premium = ['+94729646425'] //ur premium numbers
+global.premium = ['+94757127773'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
